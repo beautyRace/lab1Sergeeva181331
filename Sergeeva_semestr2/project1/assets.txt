@@ -1,0 +1,10 @@
+Garment factory:realty:0:600000,50
+Plant for the manufacture of buttons:realty:0:58690
+Plant for the production of buttons:realty:0:108000,50
+Plant for the production of lightning:realty:0:110053,90
+Gazelle blue:transport:0:4500
+Gazelle gray:transport:0:3890
+Gazelle red:transport:0:4000
+The account in VTB Bank:finance:15365,62:0
+Bank of America:finance:96638,54:0
+Sales shop:realty:2813000:15000

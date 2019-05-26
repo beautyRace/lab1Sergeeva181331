@@ -1,0 +1,7 @@
+Sergeeva:10cools:Sergeeva Margarita Sergeevna:2000:admin
+Klimov:123456:Klimov Leonid Maksimovich:1992:user
+Lisovsky:pasha93:Lisovsky Pavel Romanovich:1993:user
+Krik:nyasha:Krik Sofia Dmitrievna:1990:user
+Alexeeva:ann19:Alexeeva Anna Andreevna:1992:user
+Vekilov:90vekil:Vekilov Mikhail Nikitich:1990:user
+Moskalchuk:ulyana23:Moskalchuk Ulyana Vladimirovna:2000:user
