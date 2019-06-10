@@ -41,7 +41,7 @@ void MainWindow::on_shaButton_clicked(){
 }
 
 //функция для перевода символа в массив битов
-char* chartobin ( unsigned char c )
+char* MainWindow::chartobin ( unsigned char c )
 {
     static char bin[CHAR_BIT + 1] = { 0 };
     int i;
@@ -75,7 +75,6 @@ void MainWindow::on_imgButton_clicked(){
     ofstream f1;
     f.open ("14.bmp",ios::binary);// открываем файл для чтения
     f1.open ("14_n.bmp",ios::binary); //открываем файл для записи модифицированного изображения
-    char a ; //вспомогательная переменная
     char mas[421202]; //массив для нового изображения
        for (int i  = 0 ; i < 421202; i++ )
        {

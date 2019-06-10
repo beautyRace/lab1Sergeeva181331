@@ -26,7 +26,7 @@ private:
     Ui::MainWindow *ui;
     QString myHash; //сюда записывается строка хэш для хранения
     QString makeSHA1(const unsigned char text[]); // функция для получения хэша
-
+    char* chartobin ( unsigned char c );
 };
 
 #endif // MAINWINDOW_H
